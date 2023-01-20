@@ -1,0 +1,70 @@
+{ 
+    "questions": [{
+"questionText": "What is Object Oriented Programming?",
+        "options": [
+            {
+            "text": "C"
+           
+        },
+        {
+            "text": "JAVA",
+            "correct":true
+        },
+        {
+            "text": "LISP"
+        },
+        {
+            "text": "C++"
+        
+        }
+    ],
+    "explanation": "JAVA is Object Orientred Programming"
+        },
+   {
+    
+    
+    
+        "questionText": "Number of primitive data types in java are?",
+        "options": [
+            {
+            "text": "six"
+        },
+        {
+            "text": "seven"
+        },
+        {
+            "text": "eight",
+            "correct": true
+        },
+        {
+            "text": "nine"
+        }
+    ]
+      },
+    {
+
+
+        "questionText": "When an array is passed to a method, what does the method receive?",
+        "options":[
+            {
+                "text": "the reference of array",
+                "correct": true
+            },
+            {
+                "text": "a copy of array"
+            },
+            {
+                "text": "length of the array"
+            },
+            {
+                "text": "copy of first element"
+            }
+        ],
+        "explanation": "When array is passed to a method the method receive thre reference of array"
+    }
+]
+}
+    
+
+        
+    
